@@ -12,7 +12,7 @@ dar a enter hasta que se quite la ventana
 apt update
 ```
 ```
-aapt upgrade
+apt upgrade
 ```
 ___________________
 ```
