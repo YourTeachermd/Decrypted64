@@ -1,6 +1,6 @@
 # Decrypted64
 ### Se debera instalar `TERMUX` Si aun no lo tiene
-
+![image](https://cdn.discordapp.com/attachments/1168244677057720381/1193327097716936774/remix-fb765458-55cf-4756-a6a1-19469b4128cb.png?ex=65ac4f77&is=6599da77&hm=961743f384b30578aa8f27bfe1e0cd94f2f21e4baae86dddd6832df181d8617b&)
 
 ## Comandos 
 ```
